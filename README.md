@@ -1,9 +1,8 @@
 <!-- Links -->
 <p align="center">
   <a href="https://dashboard.slashml.com" style="color: #06b6d4;">Console</a> •
-  <a href="https://slashml.com" style="color: #06b6d4;">Docs</a> •
-  <a href="/" style="color: #06b6d4;">Templates</a> •
-  <a href="https://discord.gg/8DW4T5qH" style="color: #06b6d4;">Discord</a>
+  <a href="https://slashml.com" style="color: #06b6d4;">SlashML</a> •
+  <a href="https://discord.gg/EXJkWygF" style="color: #06b6d4;">Join us at Discord</a>
 </p>
 
 # SlashML Notebooks
@@ -12,7 +11,7 @@ This repo contains helpful AI/ML notebook templates for LLMs, multi-modal models
 
 ## Contributing
 
-We welcome contributions to this repository! If you have a notebook you'd like to add, please reach out to use the [Discord](https://discord.gg/8DW4T5qH) or open a pull request!
+We welcome contributions to this repository! If you have a notebook you'd like to add, open a pull request or please reach out using the [Discord](https://discord.gg/8DW4T5qH) or 
 
 
 ### LLM Finetuning/Training
